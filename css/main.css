@@ -1,0 +1,17 @@
+
+/* ----------- For screens 768px and larger(like Tablets? )----------- */
+@media only screen and (min-width: 768px) {
+	body {
+    background-color: blueviolet;
+    
+  }
+}
+
+/* ----------- For screens 1200px wide and larger(like desktops?)----------- */
+@media only screen and (min-width:1200px) {
+body {
+    background-color: aqua;
+    
+}
+
+}
